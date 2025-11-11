@@ -38,7 +38,7 @@ Copy code
 ### UNO R3 (Tinkercad Version)  
 Simulation-ready and identical LED/buzzer logic.  
 [Open in Tinkercad](https://www.tinkercad.com/things/YOUR-TINKERCAD-LINK-HERE)  
-[View Code](Arduino_Code/UNO_R3_Tinkercad_Version.ino)
+[View Code](Arduino_Code/UNO_R3_Distance_Sensor.ino)
 
 ---
 
